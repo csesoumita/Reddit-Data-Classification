@@ -8,4 +8,5 @@ Implemented classifications algorithms like Logistic Regression,SVC
 and MLP.
 -Evaluated the algorithm through Confusion Matrix ,F1-
 Score,Accuracy,Precision and Recall.
--Python libraries implemented: Spacy, Scikit-learn.
+-Python libraries implemented: Spacy, Scikit-learn. Was implemented in Google Colab.
+- TAD_Assignment.ipynb contains the overall implementation.
