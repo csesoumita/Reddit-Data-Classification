@@ -1,4 +1,4 @@
-# TextAsData
+# Reddit Data Classification
 -Predicted the correct class of subreddit to which a single thread of
 discussion belongs to. Also performed comment disclosure
 classification.
