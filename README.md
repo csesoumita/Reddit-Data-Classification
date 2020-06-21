@@ -1,6 +1,5 @@
 # TextAsData
-################Reddit Data Analysis Through Classification##################
-Predicted the correct class of subreddit to which a single thread of
+-Predicted the correct class of subreddit to which a single thread of
 discussion belongs to. Also performed comment disclosure
 classification.
 -Performed tokenization and normalization on fields like title and
