@@ -1,4 +1,5 @@
-# Reddit Data Classification
+<h1> Reddit Data Classification </h1>
+<p><i>
 -Predicted the correct class of subreddit to which a single thread of
 discussion belongs to. Also performed comment disclosure
 classification.
@@ -8,5 +9,16 @@ Implemented classifications algorithms like Logistic Regression,SVC
 and MLP.
 -Evaluated the algorithm through Confusion Matrix ,F1-
 Score,Accuracy,Precision and Recall.
--Python libraries implemented: Spacy, Scikit-learn. Was implemented in Google Colab.
-- TAD_Assignment.ipynb contains the overall implementation.
+  </i><p>
+    <b>Python libraries implemented:</b> Spacy, Scikit-learn. Was implemented in Google Colab.</br>
+<table> 
+  <tr>
+    <td> File Names</td>
+    <td> File Description</td>
+  </tr>
+  <tr>
+    <td >TAD_Assignment.ipynb </td>
+    <td ><p> Contains the overall implementation. </p></td>
+  </tr>
+ </table>
+ 
