@@ -2,11 +2,11 @@
 <p><i>
 -Predicted the correct class of subreddit to which a single thread of
 discussion belongs to. Also performed comment disclosure
-classification.
+  classification.</br>
 -Performed tokenization and normalization on fields like title and
-body. Also implemented One Hot Encoding and Tfidf Vectorizer.
+body. Also implemented One Hot Encoding and Tfidf Vectorizer.</br>
 Implemented classifications algorithms like Logistic Regression,SVC
-and MLP.
+and MLP.</br>
 -Evaluated the algorithm through Confusion Matrix ,F1-
 Score,Accuracy,Precision and Recall.
   </i><p>
