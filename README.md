@@ -13,11 +13,11 @@ Score,Accuracy,Precision and Recall.
     <b>Python libraries implemented:</b> Spacy, Scikit-learn. Was implemented in Google Colab.</br>
 <table> 
   <tr>
-    <td> File Names</td>
-    <td> File Description</td>
+    <td><b> File Names</b></td>
+    <td> <b>File Description</b></td>
   </tr>
   <tr>
-    <td >TAD_Assignment.ipynb </td>
+    <td ><b>TAD_Assignment.ipynb</b> </td>
     <td ><p> Contains the overall implementation. </p></td>
   </tr>
  </table>
